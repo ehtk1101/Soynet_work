@@ -1,0 +1,6 @@
+30 // data 하나 당 size
+3 // label 수
+100 // data 수
+2 // layer 수
+5 3 // 각 layer size
+10 // threads 수
